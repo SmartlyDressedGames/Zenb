@@ -1,0 +1,30 @@
+.vs
+.vscode
+.vsconfig
+
+# Ignore these regardless of which folder they are in.
+Intermediate/
+Saved/
+Binaries/
+
+# Ignore csproj binaries
+obj/
+
+# DDC is fully rebuilt on each machine.
+/DerivedDataCache/
+
+# Blender backup files have a number suffix eg ".blend1"
+*.blend*
+!*.blend
+
+/Zenb.sln
+
+# Ignore generated build files e.g. FileOpenOrder, but not the per-project automation scripts.
+/Build/*
+!/Build/Scripts
+
+# Generated when cooking a release. Used when cooking mods to determine which files are already included in the base game.
+/Releases
+
+# Audition cache file
+*.pkf
