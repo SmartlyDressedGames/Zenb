@@ -1,5 +1,7 @@
 # Zen Builder
 
+![Screenshot of in-game castle](https://github.com/SmartlyDressedGames/Zenb/assets/12567645/d9a6e8dc-e636-4127-b134-50e29cc554c8)
+
 Video overview: https://youtu.be/pLTfZGN1YSk
 
 This is a small hobby project I was playing around with in November 2022. I love building with Lego in real life, but found digital Lego-style tools like stud.io less user-friendly than game engine editors. 
